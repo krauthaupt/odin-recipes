@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    background-color: orange;
+    font-family: 'Courier New', monospace;
+}
+
+img {
+    background-color: blueviolet;
+}
+
+ul {
+    color: red;
+    background-color: bisque;
+}
+
+h3 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: xx-large;
+}
+
+ol {
+    color:chocolate;
+    background-color: blanchedalmond;
+}

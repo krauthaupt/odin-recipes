@@ -1,0 +1,16 @@
+.header {
+    color: blue;
+    background-color: orange;
+    font-family: 'Courier New', monospace;
+}
+
+ul {
+    color: red;
+    background-color: bisque;
+}
+
+.fantasy {
+    font-family: fantasy;
+    color:aqua;
+    background-color: black;
+}
